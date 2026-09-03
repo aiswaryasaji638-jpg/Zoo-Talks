@@ -2,13 +2,13 @@
 
 ## Basic Details
 
-### Team Name: developers
+### Team Name: Developers
 
 ### Team Members
 
 
-* Member 1: Aiswarya Saji
-* Member 2: S Sabha Sree
+* Member 1: Aiswarya Saji-Saintgits College of applied sciences
+* Member 2: S Sabha Sree-Saintgits College of applied Sciences
 
 ### Project Description
 
