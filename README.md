@@ -5,10 +5,10 @@
 ### Team Name: Developers
 
 ### Team Members
-
-
 * Member 1: Aiswarya Saji-Saintgits College of applied sciences
 * Member 2: S Sabha Sree-Saintgits College of applied Sciences
+### live demo
+https://zoo-talks-weof.vercel.app/
 
 ### Project Description
 
@@ -56,7 +56,7 @@ Because apparently, talking to animals wasn't complicated enough already. 😂
 * Laptop/Desktop
 * Speakers or headphones
 
-  live demo:https://zoo-talks-weof.vercel.app/
+
 
 
 
